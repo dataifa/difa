@@ -1,7 +1,0 @@
----
-title:
-output:
-  html_document:
-    theme: cerulean
-    highlight: tango
----

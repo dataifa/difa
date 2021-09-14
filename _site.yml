@@ -2,7 +2,7 @@ name: "DIFA"
 navbar:
   title: "DIFA"
   left:
-    - text: 
+    - text:
       icon: fa-home fa-1.5x
       href: index.html
     - text: "About"
@@ -24,6 +24,12 @@ navbar:
         href: day1.html
       - text: "Workshop Day 2"
         href: day2.html
-        
+      - text: "Speakers"
+        menu:
+        - text: "Julia Lane"
+          href: julia_lane.html
+
     - text: "Activity"
       href: activity.html
+
+output_dir: "docs"
