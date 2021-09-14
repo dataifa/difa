@@ -28,6 +28,10 @@ navbar:
         menu:
         - text: "Julia Lane"
           href: julia_lane.html
+        - text: "Timothy Beatty"
+          href: timothy_beatty.html
+        - text: "Jason Owen-Smith"
+          href: jason_owensmith.html
 
     - text: "Activity"
       href: activity.html
