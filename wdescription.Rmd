@@ -18,13 +18,11 @@ text-align: justify}
  <span style="text-decoration:underline"> <font size="5"> Evidence Based Policy for Agricultural and Applied Economists Virtual Workshop </font> </span>
 </p>
 
+<p align="center"><font size="5">[Day 1 (Part One): Friday, October 1, 2021, 12-5 pm ET](https://dataifa.github.io/difa-project/day1.html) </font> 
+</p>  
 
-<p align="center"><font size="5"> Day 1 (Part One): Friday, October 1, 2021, 12-5 pm ET </font> 
-</p>
-
-
-<p align="center"><font size="5"> Day 2 (Part Two): Friday, October 8, 2021, 12-5pm ET </font> 
-</p>
+<p align="center"><font size="5">[Day 2 (Part One): Friday, October 8, 2021, 12-5 pm ET](https://dataifa.github.io/difa-project/day2.html) </font> 
+</p> 
 
 Evidence-based policymaking is more essential than ever given many concurrent challenges facing society today. To tackle these policymaking challenges, applied economists can make strategic use of quantitative and qualitative data. Despite access to more data than ever before, no single dataset is sufficient for providing a comprehensive analysis or solution to many questions and problems. In these cases, researchers are forced to either do an incomplete analysis or attempt to link datasets (e.g., NHANES, CPS, ATUS, SNAP, IRI). Even before determining whether there is a need to link data, researchers must be familiar with the availability and attributes of different datasets a priori. Thus, detailed knowledge of data sources and training in data linkages are imperative for producing impactful research, even when contextual, econometric, and disciplinary knowledge is already present. 
 
