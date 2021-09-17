@@ -23,7 +23,7 @@ knitr::include_graphics("khyati.jpg")
 
 **Khyati Malik** is pursuing a PhD degree in Applied Economics in the Department of Agricultural, Environmental, and Development Economics at The Ohio State University. Her research interests involve urban, regional, environmental and energy economics. 
 
-https://aede.osu.edu/our-people/khyati-malik
+[More Information Here](https://aede.osu.edu/our-people/khyati-malik)
 
 
 <br>
@@ -52,7 +52,7 @@ agricultural economics, and the policy implications for local administration by 
 rigorous statistical models. Theretofore, he has papers published at Water Resources and Economics, Journal of
 Environmental Economics and Policy, and Journal of Health Management.
 
-https://sites.google.com/view/mohammad-mashiur-rahman
+[More Information Here](https://sites.google.com/view/mohammad-mashiur-rahman)
 
 <br>
 <br>
@@ -75,7 +75,7 @@ knitr::include_graphics("tahir.jfif")
 
 **Muhammad Tahir Ali** is a Ph.D. Fulbright Scholar, Agricultural Economics Program, at the University of Nebraska Lincoln (UNL). His areas of interest are production economics, environmental economics, natural resource economics, and experimental economics. His dissertation research is focused on linking women empowerment in agriculture to household level crop efficiency; and investment in irrigation R & D and water efficiency of Pakistan. Before starting his Ph.D., he worked in the development sector for seven years in various positions with international organizations (USAID, DFID, JICA, and AUSAID).
 
-https://www.linkedin.com/in/muhammad-tahir-ali-0249a93a/
+[More Information Here](https://www.linkedin.com/in/muhammad-tahir-ali-0249a93a/)
 
 
 <br>
@@ -98,7 +98,7 @@ knitr::include_graphics("olabisi.jpg")
 
 **Olabisi Ekong** is an Experienced Agricultural Economist with a demonstrated history of working in the higher education industry. Skilled in quantitative, qualitative, and mixed research methods with research interest in Agricultural policy, international trade and impacts of Climate Change on Agriculture.
 
-https://linkedin.com/in/olabisi-ekong
+[More Information Here](https://linkedin.com/in/olabisi-ekong)
 
 
 <br>

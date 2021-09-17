@@ -24,7 +24,7 @@ navbar:
         href: day1.html
       - text: "Workshop Day 2"
         href: day2.html
-      - text: "Speakers"
+      - text: "Guest Speakers"
         menu:
         - text: "Julia Lane"
           href: julia_lane.html
