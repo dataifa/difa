@@ -1,24 +1,25 @@
 {
-    "id": "8D398072",
-    "path": "C:/Users/thema/git/difa-project/timothy_beatty.Rmd",
-    "project_path": "timothy_beatty.Rmd",
+    "id": "00820CB2",
+    "path": "C:/Users/thema/git/difa-project/lauren_chenarides.Rmd",
+    "project_path": "lauren_chenarides.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1631829594698.0,
+    "created": 1631908393787.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
-        "cursorPosition": "28,0",
+        "tempName": "Untitled1",
+        "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631835374,
+    "lastKnownWriteTime": 1631908440,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631835374575,
+    "last_content_update": 1631908440629,
     "read_only": false,
     "read_only_alternatives": []
 }

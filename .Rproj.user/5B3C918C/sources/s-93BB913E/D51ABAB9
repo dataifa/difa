@@ -1,25 +1,25 @@
 {
-    "id": "2E225928",
-    "path": "C:/Users/thema/git/difa-project/amelia_finaret.Rmd",
-    "project_path": "amelia_finaret.Rmd",
+    "id": "D51ABAB9",
+    "path": "C:/Users/thema/git/difa-project/george_davis.Rmd",
+    "project_path": "george_davis.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1631908138814.0,
+    "created": 1631908515732.0,
     "source_on_save": false,
-    "relative_order": 10,
+    "relative_order": 6,
     "properties": {
         "tempName": "Untitled1",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631908354,
+    "lastKnownWriteTime": 1631908554,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631908354577,
+    "last_content_update": 1631908554032,
     "read_only": false,
     "read_only_alternatives": []
 }
