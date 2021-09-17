@@ -3,22 +3,22 @@
     "path": "C:/Users/thema/git/difa-project/day2.Rmd",
     "project_path": "day2.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3474378694",
     "contents": "",
     "dirty": false,
     "created": 1631823784549.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "26,3",
+        "cursorPosition": "28,78",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631645140,
+    "lastKnownWriteTime": 1631836850,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631645140,
+    "last_content_update": 1631836850146,
     "read_only": false,
     "read_only_alternatives": []
 }

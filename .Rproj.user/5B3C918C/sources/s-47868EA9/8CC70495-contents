@@ -25,3 +25,6 @@ options(knitr.table.format = "html", knitr.kable.NA = '')
 rawdat <- read_excel("events.xlsx")
 kable(rawdat[1:6 ], align="l", escape=FALSE)%>%
 kable_styling(bootstrap_options = c("hover", "striped", "responsive"))
+```
+<p align="center">[Day 2 Schedule](https://dataifa.github.io/difa-project/day2.html)
+</p>  

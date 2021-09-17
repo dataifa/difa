@@ -25,3 +25,6 @@ rawdat2 <- read_excel("events2.xlsx")
 kable(rawdat2[1:6 ], align="l", escape=FALSE)%>%
 kable_styling(bootstrap_options = c("hover", "striped", "responsive"))
 ```
+
+<p align="center">[Day 1 Schedule](https://dataifa.github.io/difa-project/day1.html)
+</p> 
