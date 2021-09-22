@@ -3,15 +3,15 @@
     "path": "C:/Users/thema/git/difa-project/comingsoon.Rmd",
     "project_path": "comingsoon.Rmd",
     "type": "r_markdown",
-    "hash": "3623396470",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1632350630293.0,
     "source_on_save": false,
     "relative_order": 10,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "27,15",
+        "cursorPosition": "27,16",
         "scrollLine": "19"
     },
     "folds": "",
@@ -19,7 +19,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1632351591791,
+    "last_content_update": 1632351805619,
     "read_only": false,
     "read_only_alternatives": []
 }
