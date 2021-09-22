@@ -8,6 +8,8 @@ navbar:
     - text: "About"
       icon: fa-book-open
       menu:
+      - text: "About Us"
+        href: about.html
       - text: "Leadership Team"
         href: Leadership_team.html
       - text: "Research Team"

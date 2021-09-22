@@ -1,25 +1,25 @@
 {
-    "id": "AB95E91C",
-    "path": "C:/Users/thema/git/difa-project/drew_hanks.Rmd",
-    "project_path": "drew_hanks.Rmd",
+    "id": "27225489",
+    "path": "C:/Users/thema/git/difa-project/andi_carlson.Rmd",
+    "project_path": "andi_carlson.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1631908455686.0,
+    "created": 1631908566058.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 7,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "0,0",
+        "cursorPosition": "29,93",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631908495,
+    "lastKnownWriteTime": 1631908608,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631908495487,
+    "last_content_update": 1631908608595,
     "read_only": false,
     "read_only_alternatives": []
 }
