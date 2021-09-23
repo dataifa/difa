@@ -1,25 +1,25 @@
 {
-    "id": "00820CB2",
-    "path": "C:/Users/thema/git/difa-project/lauren_chenarides.Rmd",
-    "project_path": "lauren_chenarides.Rmd",
+    "id": "D11710ED",
+    "path": "C:/Users/thema/git/difa-project/bruce_weinberg.Rmd",
+    "project_path": "bruce_weinberg.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1631908393787.0,
+    "created": 1632422407955.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "7,7",
-        "scrollLine": "0"
+        "cursorPosition": "40,0",
+        "scrollLine": "25"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631908440,
+    "lastKnownWriteTime": 1632422635,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631908440629,
+    "last_content_update": 1632422635632,
     "read_only": false,
     "read_only_alternatives": []
 }

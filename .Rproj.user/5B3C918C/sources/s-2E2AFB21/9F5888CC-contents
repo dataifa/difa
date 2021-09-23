@@ -1,0 +1,40 @@
+---
+title: Wen You
+output: 
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://cph.osu.edu/sites/default/files/ahyder.jpg")
+
+```
+</div>
+
+**Dr. Ayaz Hyder** is an Assistant Professor of Translational Data Analytics in the Environmental Health Sciences at The Ohio State University. Hyder received his PhD in Biology from McGill University in 2012. He then did his Postdoctoral training in Environmental Epidemiology  at Yale University from 2011-2013. Hyder’s research specializes in Systems Science, Agent-Based Modeling, Birth Outcomes/Infant Mortality, Environmental Epidemiology, Air Pollution, Citizen Science, Opioid epidemic, Food insecurity, Smart Cities, Health Economics. He placed 2nd in Poster Session #2 at Society for Epidemiological Research Conference 2019. Some of his publications include COVID-19 Surveillance for Local Decision Making: An Academic, School District, and Public Health Collaboration, Opioid Treatment Deserts: Concept development and application in a US Midwestern urban county, Teaching systems science to public health professionals and Translational data analytics in exposure science and environmental health: a citizen science approach with high school students. 
+<br>
+<br>
+[More Information Here](https://cph.osu.edu/people/ahyder)
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+

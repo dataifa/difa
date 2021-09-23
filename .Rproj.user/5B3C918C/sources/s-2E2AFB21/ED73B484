@@ -1,17 +1,17 @@
 {
-    "id": "16D0C899",
-    "path": "C:/Users/thema/git/difa-project/julia_lane.Rmd",
-    "project_path": "julia_lane.Rmd",
+    "id": "ED73B484",
+    "path": "C:/Users/thema/git/difa-project/timothy_beatty.Rmd",
+    "project_path": "timothy_beatty.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1632350637790.0,
+    "created": 1632422394807.0,
     "source_on_save": false,
-    "relative_order": 11,
+    "relative_order": 3,
     "properties": {
-        "cursorPosition": "42,0",
-        "scrollLine": "0"
+        "cursorPosition": "46,0",
+        "scrollLine": "28"
     },
     "folds": "",
     "lastKnownWriteTime": 1631835374,
