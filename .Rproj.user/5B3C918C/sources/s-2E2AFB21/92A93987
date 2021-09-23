@@ -1,24 +1,24 @@
 {
-    "id": "2239D58E",
-    "path": "C:/Users/thema/git/difa-project/day2.Rmd",
-    "project_path": "day2.Rmd",
+    "id": "92A93987",
+    "path": "C:/Users/thema/git/difa-project/day1.Rmd",
+    "project_path": "day1.Rmd",
     "type": "r_markdown",
-    "hash": "3474378694",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1632350768941.0,
+    "created": 1632350746059.0,
     "source_on_save": false,
-    "relative_order": 14,
+    "relative_order": 13,
     "properties": {
         "cursorPosition": "28,0",
-        "scrollLine": "15"
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631836850,
+    "lastKnownWriteTime": 1631836782,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631836850,
+    "last_content_update": 1631836782,
     "read_only": false,
     "read_only_alternatives": []
 }

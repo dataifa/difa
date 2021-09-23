@@ -1,0 +1,21 @@
+---
+title: Welcome
+output:
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+**Data Integration in Food and Agriculture (DIFA)** is an organization of scholars whose research focuses on food and agricultural policy issues. Our mission is to promote complementary and efficient use of data to strengthen current evidence on major food and agricultural policy issues. To accomplish this, we are developing a platform designed to help researchers identify appropriate data, provide best practices for using various data products, overcome challenges associated with data quality issues, and promote the replicability of data-driven research.
+
+Please read more about us on our "About" section, and learn about our past and upcoming events on our "Events" section. 
+
+
+
+

@@ -1,25 +1,25 @@
 {
-    "id": "59E2AB51",
-    "path": "C:/Users/thema/git/difa-project/comingsoon.Rmd",
-    "project_path": "comingsoon.Rmd",
+    "id": "2E225928",
+    "path": "C:/Users/thema/git/difa-project/amelia_finaret.Rmd",
+    "project_path": "amelia_finaret.Rmd",
     "type": "r_markdown",
-    "hash": "484818781",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1632350630293.0,
+    "created": 1631908138814.0,
     "source_on_save": false,
     "relative_order": 10,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "27,16",
-        "scrollLine": "19"
+        "cursorPosition": "25,4",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1632352085,
+    "lastKnownWriteTime": 1631908354,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1632352085249,
+    "last_content_update": 1631908354577,
     "read_only": false,
     "read_only_alternatives": []
 }
