@@ -34,6 +34,12 @@ navbar:
           href: timothy_beatty.html
         - text: "Jason Owen-Smith"
           href: jason_owensmith.html
+        - text: "Ayaz Hyder"
+          href: ayaz_hyder.html
+        - text: "Bruce Weinberg"
+          href: bruce_weinberg.html
+        - text: "Wen You"
+          href: wen_you.html
 
     - text: "Activity"
       href: activity.html
