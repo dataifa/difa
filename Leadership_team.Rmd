@@ -13,6 +13,26 @@ text-align: justify}
 <br>
 <br>
 
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://wpcarey.asu.edu/sites/default/files/styles/asu_isearch_profile/public/asu_isearch_photos/3153292.jpg?itok=uGyaUi-M")
+
+```
+</div>
+
+
+**Dr. Lauren Chenarides** is an Assistant Professor in the Morrison School of Agribusiness in the W. P. Carey Business School at Arizona State University. Dr. Chenarides has extensive experience in working with secondary, high-dimensional data sets to examine market structure, food access, and policy-oriented research questions. Her recent work has been published in Food Policy and Applied Economic Perspectives and Policy. 
+<br>
+<br>
+[More Information Here](https://wpcarey.asu.edu/people/profile/3153292)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div style= "float:left;position: relative; right: 25px; top: -7px;">
 ```{r echo=FALSE, out.width="200px", fig.align='left'}
@@ -21,7 +41,6 @@ knitr::include_graphics("https://sites.allegheny.edu/news/files/2018/01/darrouze
 
 ```
 </div>
-
 
 **Dr. Amelia Finaret** is an Assistant Professor of Global Health Studies at Allegheny College, where she teaches food economics and nutrition. Dr. Finaret has experience working with international food and nutrition data for her research on child malnutrition, the linkages between agriculture and nutrition, statistical artifacts of data collection in international nutrition surveys, and missing data. Her recent work has been published in the American Journal of Clinical Nutrition, Annual Review of Resource Economics, The Journal of Nutrition, and Economics & Human Biology.
 <br>
@@ -32,10 +51,7 @@ knitr::include_graphics("https://sites.allegheny.edu/news/files/2018/01/darrouze
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 <div style= "float:left;position: relative; right: 25px; top: -7px;">
 ```{r echo=FALSE, out.width="200px", fig.align='left'}
 
@@ -43,7 +59,6 @@ knitr::include_graphics("https://static.ehe.osu.edu/img/directory/150x200/hanks.
 
 ```
 </div>
-
 
 **Dr. Andrew (Drew) Hanks** is an Assistant Professor in the Department of Human Sciences at The Ohio State University (OSU). Dr. Hanks focuses on consumer and household choices related to food, education, and finances. His methodological approaches range from field experimentation to analysis of large data sets. Given the interdisciplinary nature of his research, Dr. Hanks publishes in a variety of journals such as Food Policy, the American Journal of Agricultural Economics, the American Psychologist, and Pediatrics.
 <br>
@@ -58,10 +73,13 @@ knitr::include_graphics("https://static.ehe.osu.edu/img/directory/150x200/hanks.
 <br>
 <br>
 <br>
+
+
+# Advisory Team
+
 <br>
 <br>
-<br>
-<br>
+
 <div style= "float:left;position: relative; right: 25px; top: -7px;">
 ```{r echo=FALSE, out.width="200px", fig.align='left'}
 
@@ -69,8 +87,6 @@ knitr::include_graphics("https://www.ers.usda.gov/media/8953/andrea-carlson-web.
 
 ```
 </div>
-
-
  
 **Dr. Andrea (Andi) Carlson**, an economist in the Food Markets Branch of the Food Economics Division in USDA’s Economic Research Service, researches food prices, with an emphasis on their impact on healthy diets and organic food purchases. She is the project lead for the Linkages project which allows users to import nutrient and food composition data into USDA’s purchased scanner data and estimate individual food prices for dietary intake data. Her research interests include the affordability of healthy diets, tracking consumption over time, and examining organic food purchases and price premiums. Dr. Carlson joined ERS after 9 years with USDA’s Center for Nutrition Policy and Promotion (CNPP) where she was the project leader for the USDA Food Plans, CNPP Food Prices Database, and a major contributor to the Cost of Raising a Child.
 <br>
@@ -83,9 +99,7 @@ knitr::include_graphics("https://www.ers.usda.gov/media/8953/andrea-carlson-web.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <div style= "float:left;position: relative; right: 25px; top: -7px;">
 ```{r echo=FALSE, out.width="200px", fig.align='left'}
 
@@ -99,27 +113,6 @@ knitr::include_graphics("https://aaec.vt.edu/content/aaec_vt_edu/en/people/facul
 <br>
 <br>
 [More Information Here](https://aaec.vt.edu/people/faculty/davis-george.html)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div style= "float:left;position: relative; right: 25px; top: -7px;">
-```{r echo=FALSE, out.width="200px", fig.align='left'}
-
-knitr::include_graphics("https://wpcarey.asu.edu/sites/default/files/styles/asu_isearch_profile/public/asu_isearch_photos/3153292.jpg?itok=uGyaUi-M")
-
-```
-</div>
-
-
-**Dr. Lauren Chenarides** is an Assistant Professor in the Morrison School of Agribusiness in the W. P. Carey Business School at Arizona State University. Dr. Chenarides has extensive experience in working with secondary, high-dimensional data sets to examine market structure, food access, and policy-oriented research questions. Her recent work has been published in Food Policy and Applied Economic Perspectives and Policy. 
-<br>
-<br>
-[More Information Here](https://wpcarey.asu.edu/people/profile/3153292)
 
 
 
