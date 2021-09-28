@@ -37,19 +37,19 @@ navbar:
         - text: "Ayaz Hyder"
           href: ayaz_hyder.html
         - text: "Charlotte Ambrozek"
-          href: comingsoon.html
+          href: charlotte_ambrozek.html
         - text: "Wen You"
           href: wen_you.html
         - text: "Nichole Szembrot"
-          href: comingsoon.html
+          href: nichole_szembrot.html
         - text: "Mark Prell"
-          href: comingsoon.html
+          href: mark_prell.html
         - text: "Bruce Weinberg"
           href: bruce_weinberg.html
         - text: "Matt Bombyk"
           href: comingsoon.html
         - text: "Joe Cummins"
-          href: comingsoon.html
+          href: joe_cummins.html
 
 #    - text: "Activity"
 #      href: activity.html

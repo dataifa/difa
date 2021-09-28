@@ -1,0 +1,39 @@
+---
+title: Nichole Szembrot
+output: 
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://sites.google.com/site/nicholeszembrot/_/rsrc/1472873571612/home/headshot.jpg?height=200&width=160")
+
+```
+</div>
+
+**Dr. Nichole Szembrot** received her Ph.D. in Economics from Cornell University in August 2014. She is currently the Administrator for the Cornell Research Data Center. Her research interests include labor economics, public economics, behavioral economics, and economics of politics. Some of her publications include Experimental Study of Cursed Equilibrium in a Signaling Game, Are Voters Cursed When Politicians Conceal Policy Preferences?, Beyond Happiness and Satisfaction: Toward Well-Being Indices Based on Stated Preference, and Aggregating Local Preferences to Guide Marginal Policy Adjustments. Some of her awards include Center for Teaching and Learning Fellow, Trinity College, 2016-2017 Sage Fellowship, Cornell University, 2009-2014 Trustee Scholarship, Boston University, 2005-2009 Robert C. Byrd Scholarship, 2005-2009 National Merit Scholarship, 2005-2009 
+<br>
+<br>
+[More Information Here](https://sites.google.com/site/nicholeszembrot/)
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
