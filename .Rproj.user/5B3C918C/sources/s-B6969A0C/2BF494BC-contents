@@ -1,0 +1,42 @@
+---
+title: Julia Lane
+output: 
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("http://www.julialane.org/wp-content/uploads/2016/02/julialane1-732x1024.jpg")
+
+```
+</div>
+
+**Dr. Julia Lane** is a Professor at the NYU Wagner Graduate School of Public Service, at the NYU Center for Urban Science and Progress, and a NYU Provostial Fellow for Innovation Analytics, having received her PhD in Economics from the University of Missouri. . She co-founded the Coleridge Initiative, whose goal is to use data to transform the way governments access and use data for the social good through training programs, research projects and a secure data facility. Prior to this, Julia was a Senior Managing Economist and Institute Fellow at American Institutes for Research. In this role, Julia co-founded the Institute for Research on Innovation and Science (IRIS) at the University of Michigan. Julia has held various positions at the National Science Foundation, The Urban Institute, The World Bank, American University and NORC at the University at Chicago. She also initiated and led the creation and permanent establishment of the Longitudinal Employer-Household Dynamics Program at the U.S. Census Bureau. This program began as a small two-year ASA Census Bureau fellowship and evolved into the first large-scale linked employer-employee dataset in the United States. 
+<br>
+<br>
+Julia has published over 80 articles in leading economics journals and authored/edited ten books. She is an elected fellow of the American Association for the Advancement of Science, the International Statistical Institute, and a fellow of the American Statistical Association. She has been the recipient of over $70 million in grants; from foundations such as the National Science Foundation, the Alfred P. Sloan Foundation, the Ewing Marion Kauffman Foundation, the MacArthur Foundation, the Russell Sage Foundation, the Spencer Foundation, the National Institutes of Health, the Overdeck Family Foundation, the Schmidt Futures Foundation and the Bill and Melinda Gates Foundation; from government agencies such as the Departments of Commerce, Labor, and Health and Human Services in the U.S., the ESRC in the U.K., and the Department of Labour and Statistics New Zealand in New Zealand, as well as from international organizations such as the World Bank. Julia is the recipient of the 2014 Julius Shiskin award and the 2014 Roger Herriot award. She is also the recipient of the 2017 Warren E. Miller Award.
+<br>
+<br>
+[More Information Here](https://wagner.nyu.edu/community/faculty/julia-lane)
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
