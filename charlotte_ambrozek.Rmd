@@ -27,6 +27,12 @@ knitr::include_graphics("https://arefiles.ucdavis.edu/uploads/thumbs/filer_publi
 <br>
 [DIFA Workshop Presentation](https://www.youtube.com/watch?v=8Jw-jFjcFkE)
 <br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Ambrozek_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
 <br>
 [More Information Here](https://are.ucdavis.edu/people/grad-students/phd/charlotte-ambrozek/)
   
