@@ -25,6 +25,15 @@ knitr::include_graphics("https://sites.allegheny.edu/news/files/2018/01/darrouze
 **Dr. Amelia Finaret** is an Assistant Professor of Global Health Studies at Allegheny College, where she teaches food economics and nutrition. Dr. Finaret has experience working with international food and nutrition data for her research on child malnutrition, the linkages between agriculture and nutrition, statistical artifacts of data collection in international nutrition surveys, and missing data. Her recent work has been published in the American Journal of Clinical Nutrition, Annual Review of Resource Economics, The Journal of Nutrition, and Economics & Human Biology.
 <br>
 <br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=poUAfpXeefA)
+<br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Finaret_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
+<br>
 [More Information Here](https://sites.allegheny.edu/globalhealth/faculty/amelia-finaret/)
   
 <br>

@@ -28,6 +28,9 @@ knitr::include_graphics("https://opic.osu.edu/weinberg.27?aspect=p&width=300")
 Dr. Weinberg's research has been published in journals including The American Economic Review, The Journal of Political Economy, The Proceedings of the National Academy of the Sciences, and Science, and has been supported by the National Institutes of Health (NIA, NIGMS, NCATS, OBSSR), the National Science Foundation (EHR, Economics, SciSIP), and the Kauffman, Sloan, and Templeton Foundations. He has advised policy makers at a variety of levels and served on two Working Groups of the Advisory Committee to the NIH Director (the Next Generation and Biomedical Research Workforce, where he co-chaired the modeling subcommittee). His work has been covered publicly in/on the Economic Report of the President, ABC Radio, BBC Radio, CNN, NPR, all leading U.S. newspapers, and in outlets across the world.
 <br>
 <br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=XWrJ4ewASqE)
+<br>
+<br>
 [More Information Here](https://economics.osu.edu/people/weinberg.27)
   
 <br>

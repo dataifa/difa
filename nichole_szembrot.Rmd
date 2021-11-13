@@ -28,6 +28,9 @@ knitr::include_graphics("https://sites.google.com/site/nicholeszembrot/_/rsrc/14
 A few of Nichole's publications include *Experimental Study of Cursed Equilibrium in a Signaling Game, Are Voters Cursed When Politicians Conceal Policy Preferences?*, *Beyond Happiness and Satisfaction: Toward Well-Being Indices Based on Stated Preference*, and *Aggregating Local Preferences to Guide Marginal Policy Adjustments*. Awards earned include the Center for Teaching and Learning Fellow from Trinity College, the Sage Fellowship from Cornell University, and the Trustee Scholarship from Boston University.
 <br>
 <br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=XWrJ4ewASqE)
+<br>
+<br>
 [More Information Here](https://sites.google.com/site/nicholeszembrot/)
   
 <br>

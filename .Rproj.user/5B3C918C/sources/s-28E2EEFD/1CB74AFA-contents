@@ -1,0 +1,52 @@
+---
+title: Wen You
+output: 
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://med.virginia.edu/phs/wp-content/uploads/sites/188/2019/08/wen_you_web_port_1-200x300.jpg")
+
+```
+</div>
+
+**Dr. Wen You** is an Associate Professor in the Department of Public Health Sciences at the University of Virginia, having received her Ph.D. in Agricultural Economics from Texas A&M University. Dr. You's research focuses on applied health economics and health policy design and evaluation work. Her research program goal is to address health disparity through improving the economic welfare and health of disadvantaged populations (both domestically and internationally). Her research, teaching and mentoring are positioned at the intersections of health economics, econometrics, public health science, behavioral science and policy. Dr. You has utilized the strength of economic modeling and quantitative analytical skills to fill the theoretical and analytical gaps on non-laboratory behavioral intervention research and policy evaluations. Furthermore, she links interdisciplinary methodologies and frameworks back into traditional economic policy analytical frameworks to bring more realism and contextual relevance into economic models. Her current research program revolves around three connected themes that are crucial for improving human health and welfare: a) understanding individual’s health behaviors; b) identifying incentives for promoting healthy behaviors;  c) evaluating health policies and programs.
+<br>
+<br>
+Dr. You has served as PI and co-I roles for several NIH and USDA funded interdisciplinary research grants and has published over 60 peer reviewed journal papers in economic and interdisciplinary journals including Health Economics, American Journal of Agricultural Economics, Journal of Nutrition, Social Science & Medicine, Preventive Medicine and Food Policy etc. Some of her publications include Food Policy, Review of Economics of the Household, Applied Economic Perspectives and Policy, and Contemporary Clinical Trials.
+<br>
+<br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=XWrJ4ewASqE)
+<br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('You_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
+<br>
+[More Information Here](https://med.virginia.edu/phs/2019/08/01/you-wen/)
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+

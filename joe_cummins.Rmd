@@ -25,7 +25,16 @@ knitr::include_graphics("joecummins.jpg")
 **Dr. Joe Cummins** is an assistant professor in the Department of Economics at the University of California, Riverside. Cummins earned his Ph.D. in Economics from the University of California, Davis in 2014. Most of his research focuses on the economics of early life health in developing countries and on econometric methods related to that field. His major research and teaching fields are Development Economics, Health Economics, and Microeconometric Methods. 
 <br>
 <br>
-Joe's publications include *An Age Profile Perspective on Two Puzzles in Global Child Health: the Indian Enigma & Economic Growth*, *Maternal and Child Supplementation with Lipid-Based Nutrient Supplements, but Not Child Supplementation Alone, Decreases Self-Reported Household Food Insecurity in Some Settings*, and *Heterogeneous Treatment Effects in the Low Track: Revisiting the Kenyna Primary School Experiment*. Some of his grants and awards include the National Society for Leadership and Success' Excellence in Teaching Award, the Rang-Din Nutrition Study grant through USAID/FANTA-3, and UC Davis Provost Dissertation Year Fellowship.  
+Joe's publications include *An Age Profile Perspective on Two Puzzles in Global Child Health: the Indian Enigma & Economic Growth*, *Maternal and Child Supplementation with Lipid-Based Nutrient Supplements, but Not Child Supplementation Alone, Decreases Self-Reported Household Food Insecurity in Some Settings*, and *Heterogeneous Treatment Effects in the Low Track: Revisiting the Kenyna Primary School Experiment*. Some of his grants and awards include the National Society for Leadership and Success' Excellence in Teaching Award, the Rang-Din Nutrition Study grant through USAID/FANTA-3, and UC Davis Provost Dissertation Year Fellowship.
+<br>
+<br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=Gh2Gv24yp44)
+<br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Cummins_DIFA21.pdf', text='Presentation Slides')
+
+```
 <br>
 <br>
 [More Information Here](https://www.josephrcummins.com/)

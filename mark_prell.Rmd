@@ -28,6 +28,9 @@ knitr::include_graphics("markprell.jpg")
 Mark serves as a member of the Federal Committee of Statistical Methodology (FCSM), which the U.S. Office of Management and Budget (OMB) created to inform and advise OMB and heads of statistical agencies on methodological and statistical issues that affect the quality of Federal data. Mark has previously served in various roles at ERS between 1999 and the present, including as an Assistant Deputy Director from 1999 to 2003, and as Food Assistance Branch Chief from 2003 to 2010. Prior to joining ERS, he taught economics at both the undergraduate and graduate levels for a dozen years.
 <br>
 <br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=XWrJ4ewASqE)
+<br>
+<br>
 [More Information Here](https://www.ers.usda.gov/authors/ers-staff-directory/mark-prell/)
   
 <br>

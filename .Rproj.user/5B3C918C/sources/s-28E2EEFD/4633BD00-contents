@@ -1,0 +1,49 @@
+---
+title: Matt Bombyk
+output: 
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://pop.umn.edu/sites/pop.umn.edu/files/staff-photo/matthew_bombyk.jpg")
+
+```
+</div>
+
+**Matt Bombyk** is currently a Ph.D student in Applied Economics at the University of Minnesota. He is also a member of the data user support team at IPUMS. Matt's research interests include economic development and structural change, labor market institutions, air pollution control policies, and the effects of food labeling and certification. Prior to joining the Ph.D program, he worked as a research analyst for the State of Minnesota Labor Market Information Office, and as a research coordinator on several randomized program evaluations with Innovations for Poverty Action (IPA) in Mongolia.
+<br>
+<br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=GRfKbc8fs40)
+<br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Bombyk_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
+<br>
+[More Information Here](https://pop.umn.edu/people/matthew-bombyk)
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
