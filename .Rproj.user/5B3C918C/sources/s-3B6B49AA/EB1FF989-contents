@@ -1,0 +1,52 @@
+---
+title: Bruce Weinberg
+output: 
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://opic.osu.edu/weinberg.27?aspect=p&width=300")
+
+```
+</div>
+
+**Dr. Bruce A. Weinberg** received his Ph.D. from the University of Chicago in 1996 before joining the faculty at the Ohio State University, where he is now Professor of Economics and Public Affairs. His research spans three areas. The first is the economics of innovation and creativity. This work studies the production, diffusion, and value of innovations, including how creativity varies over the life cycle, how an individual’s own creativity is affected by the presence of other important innovators, and disparities among researchers. The second area is family and neighborhood determinants of youth outcomes and behavior. This work studies how youth behaviors, including employment, delinquency, cognitive development, and risky behaviors, are affected by their families and peer groups. The third research area concerns technological change, industrial shifts, and the wage structure. This work studies how computerization and the shift from manufacturing to services have affected the gender wage gap, the racial wage gap, and the returns to experience. 
+<br>
+<br>
+Dr. Weinberg's research has been published in journals including The American Economic Review, The Journal of Political Economy, The Proceedings of the National Academy of the Sciences, and Science, and has been supported by the National Institutes of Health (NIA, NIGMS, NCATS, OBSSR), the National Science Foundation (EHR, Economics, SciSIP), and the Kauffman, Sloan, and Templeton Foundations. He has advised policy makers at a variety of levels and served on two Working Groups of the Advisory Committee to the NIH Director (the Next Generation and Biomedical Research Workforce, where he co-chaired the modeling subcommittee). His work has been covered publicly in/on the Economic Report of the President, ABC Radio, BBC Radio, CNN, NPR, all leading U.S. newspapers, and in outlets across the world.
+<br>
+<br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=XWrJ4ewASqE)
+<br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Weinberg_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
+<br>
+[More Information Here](https://economics.osu.edu/people/weinberg.27)
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+

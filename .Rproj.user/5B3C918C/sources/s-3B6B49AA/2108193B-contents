@@ -1,0 +1,49 @@
+---
+title: Lauren Chenarides
+output: 
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://wpcarey.asu.edu/sites/default/files/styles/asu_isearch_profile/public/asu_isearch_photos/3153292.jpg?itok=uGyaUi-M")
+
+```
+</div>
+
+
+**Dr. Lauren Chenarides** is an Assistant Professor in the Morrison School of Agribusiness in the W. P. Carey Business School at Arizona State University. Dr. Chenarides has extensive experience in working with secondary, high-dimensional data sets to examine market structure, food access, and policy-oriented research questions. Her recent work has been published in Food Policy and Applied Economic Perspectives and Policy. 
+<br>
+<br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=_yIWVTy-72k)
+<br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Chenarides_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
+<br>
+[More Information Here](https://wpcarey.asu.edu/people/profile/3153292)
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}

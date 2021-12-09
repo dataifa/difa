@@ -30,6 +30,12 @@ Julia has published over 80 articles in leading economics journals and authored/
 <br>
 [DIFA Workshop Presentation](https://www.youtube.com/watch?v=5jJfv0RzP44)
 <br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Lane_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
 <br>
 [More Information Here](https://wagner.nyu.edu/community/faculty/julia-lane)
   

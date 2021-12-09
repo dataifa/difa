@@ -30,6 +30,12 @@ Dr. Weinberg's research has been published in journals including The American Ec
 <br>
 [DIFA Workshop Presentation](https://www.youtube.com/watch?v=XWrJ4ewASqE)
 <br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Weinberg_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
 <br>
 [More Information Here](https://economics.osu.edu/people/weinberg.27)
   

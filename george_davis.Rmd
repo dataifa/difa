@@ -28,6 +28,12 @@ knitr::include_graphics("https://aaec.vt.edu/content/aaec_vt_edu/en/people/facul
 <br>
 [DIFA Workshop Presentation](https://www.youtube.com/watch?v=Vc4q-rcEOS4)
 <br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Davis_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
 <br>
 [More Information Here](https://aaec.vt.edu/people/faculty/davis-george.html)
   

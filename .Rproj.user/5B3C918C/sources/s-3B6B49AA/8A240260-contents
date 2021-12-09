@@ -1,0 +1,43 @@
+---
+title: Drew Hanks
+output: 
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://static.ehe.osu.edu/img/directory/150x200/hanks.46.jpg")
+
+```
+</div>
+
+
+**Dr. Andrew (Drew) Hanks** is an Assistant Professor in the Department of Human Sciences at The Ohio State University (OSU). Dr. Hanks focuses on consumer and household choices related to food, education, and finances. His methodological approaches range from field experimentation to analysis of large data sets. Given the interdisciplinary nature of his research, Dr. Hanks publishes in a variety of journals such as Food Policy, the American Journal of Agricultural Economics, the American Psychologist, and Pediatrics.
+<br>
+<br>
+[DIFA Workshop Presentation](https://www.youtube.com/watch?v=kN0pyEv3t3E)
+<br>
+<br>
+[More Information Here](https://ehe.osu.edu/human-sciences/directory?id=hanks.46)
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
