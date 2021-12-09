@@ -1,25 +1,25 @@
 {
-    "id": "08542061",
-    "path": "C:/Users/thema/git/difa-project/mark_prell.Rmd",
-    "project_path": "mark_prell.Rmd",
+    "id": "F9111122",
+    "path": "C:/Users/thema/git/difa-project/amelia_finaret.Rmd",
+    "project_path": "amelia_finaret.Rmd",
     "type": "r_markdown",
-    "hash": "3166591923",
+    "hash": "4126295158",
     "contents": "",
     "dirty": false,
-    "created": 1639084683071.0,
+    "created": 1639085690522.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "34,23",
+        "cursorPosition": "28,0",
         "scrollLine": "25"
     },
     "folds": "",
-    "lastKnownWriteTime": 1639084728,
+    "lastKnownWriteTime": 1636782656,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1639084728116,
+    "last_content_update": 1636782656,
     "read_only": false,
     "read_only_alternatives": []
 }

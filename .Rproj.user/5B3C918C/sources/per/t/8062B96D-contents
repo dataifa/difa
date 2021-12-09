@@ -28,6 +28,12 @@ knitr::include_graphics("https://static.ehe.osu.edu/img/directory/150x200/hanks.
 <br>
 [DIFA Workshop Presentation](https://www.youtube.com/watch?v=kN0pyEv3t3E)
 <br>
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('Hanks_DIFA21.pdf', text='Presentation Slides')
+
+```
+<br>
 <br>
 [More Information Here](https://ehe.osu.edu/human-sciences/directory?id=hanks.46)
   
